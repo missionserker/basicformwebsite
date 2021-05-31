@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+}
+form {
+    /* Just to center the form on the page */
+    margin: 0 auto;
+    width: 70%;
+    /* To see the limits of the form */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+body {
+    font-family: 'Anaheim';
+    font-size: 1.2em;
+  }
+#outside {
+      background-color: lightgoldenrodyellow;
+        padding-top: 25px;
+       padding-bottom: 25px;     }
+   
+#servey-form{
+    background: white;
+}
+
+button {
+    background: red;
+    font-size: 27px;
+    padding-right: 10px;
+    margin-left: 16px;
+    border: none;
+    border-radius: 5px;
+}
+.button2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+fieldset{
+    margin-top: 5px;
+}
